@@ -11,6 +11,29 @@
 
 ---
 
+## 📚 Table of Contents
+
+- [Introduction](#introduction)
+- [About](#about)
+- [System Requirements](#system-requirements)
+- [Installation](#installation)
+  - [Windows 98 Users](#windows-98-users)
+- [Known Issues](#known-issues)
+  - [Startup Problems](#startup-problems)
+  - [Touchpad Doesn’t Scroll](#touchpad-doesnt-scroll)
+  - [ZoomText Compatibility](#zoomtext-compatibility)
+- [Compatibility Tips](#compatibility-tips)
+  - [Clipboard Issues](#clipboard-issues)
+  - [Email Crashes](#email-crashes)
+- [Keyboard Shortcuts](#keyboard-shortcuts)
+- [Support](#support)
+- [Bug Reporting](#bug-reporting)
+- [Contributing](#contributing)
+  - [Active Mailing Lists](#active-mailing-lists)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [🔝 Back to top](#top)
+
 ## Introduction
 
 Welcome to the **OpenOffice.org 2.4** README! This document is your go-to guide for installing, troubleshooting, and contributing to OpenOffice.org 2.4. Whether you're a first-time user or a seasoned contributor, you'll find everything you need to get started and make the most of this free and open-source office suite.
@@ -58,7 +81,7 @@ Follow these steps to install OpenOffice.org 2.4:
 > [!TIP]  
 > You can install OpenOffice.org 2.4 without removing older versions. Just run the new installer, then choose **Repair** if needed.
 
-### 🪟 Windows 98 Users
+### Windows 98 Users
 
 If you’re asked to **restart your PC** during Java installation, just restart and **open the installer again**.
 
@@ -185,7 +208,7 @@ You can:
 - Help with marketing.
 - Join a sub-project.
 
-### 📨 Active Mailing Lists
+### Active Mailing Lists
 
 | Purpose        | Email                          |
 |----------------|--------------------------------|
