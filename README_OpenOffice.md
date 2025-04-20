@@ -240,5 +240,6 @@ Thanks to every user, developer, translator, and tester who made OpenOffice.org 
 ---
 
 [![Logo](assets/oracle.png)](http://www.oracle.com)
+[![Logo](assets/Netscape-logo.png)(https://isp.netscape.com)]
 
 [🔝 Back to top](#top)
