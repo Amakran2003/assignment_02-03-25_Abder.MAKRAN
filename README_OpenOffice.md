@@ -239,6 +239,6 @@ Thanks to every user, developer, translator, and tester who made OpenOffice.org 
 
 ---
 
-[![Logo](assets/opengl-logo.png)](http://www.opengl.org)
+[![Logo](assets/oracle.png)](http://www.oracle.com)
 
 [🔝 Back to top](#top)
